@@ -1,0 +1,30 @@
+
+state={
+	id=655
+	name="STATE_655"
+	manpower = 94759
+	
+	resources={
+		oil=3 # was: 4
+	}
+	
+	state_category = pastoral
+	history={
+		owner = RSP
+		add_core_of = BLU
+		add_core_of = RUS
+		add_core_of = RSP
+		add_claim_by = JAP
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+		}
+		victory_points = {
+			1755 1 #Alexandrovka
+		}
+	}
+
+	provinces={
+		855 1742 1755 
+	}
+}

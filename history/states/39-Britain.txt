@@ -1,0 +1,29 @@
+
+state={
+	id=39
+	name="STATE_39"
+	resources={
+		aluminium=14.000
+	}
+
+	history={
+		owner = GOR
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			9630 1 #Botzen
+		}
+		add_core_of = GOR
+
+	}
+
+	provinces={
+		6675 9630 11615 
+	}
+	manpower=441650
+	buildings_max_level_factor=1.000
+	state_category=town
+}

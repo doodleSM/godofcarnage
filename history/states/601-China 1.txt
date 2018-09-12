@@ -1,0 +1,25 @@
+
+state={
+	id=601
+	name="STATE_601"
+	
+
+	history={
+		owner = TIB
+		add_core_of = BEI
+		add_core_of = CHF
+		add_core_of = TIB
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		5018 5080 10741 
+	}
+	manpower=122000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

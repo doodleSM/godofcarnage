@@ -1,0 +1,26 @@
+
+state={
+	id=561
+	name="STATE_561" # Amur
+	manpower = 454281
+	
+	state_category = town
+
+	history={
+		owner = RSP
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+		}
+		victory_points = {
+			7763 1 #Blagoveshchensk
+		}
+		add_core_of = RSP
+		add_core_of = RUS
+		add_core_of = BLU
+	}
+
+	provinces={
+		1730 1739 1845 4731 4847 7691 7754 7785 7851 10678 12543 12591 12657 12660 
+	}
+}

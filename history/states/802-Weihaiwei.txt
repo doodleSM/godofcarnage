@@ -1,0 +1,31 @@
+state={
+	id=802
+	name="STATE_802"
+	provinces={
+		4205 
+	}
+	history={
+		owner = ENG
+		add_core_of = BEI
+		add_core_of = CHF
+		add_core_of = SHD
+		victory_points = {
+			4205 1
+		}
+		buildings = {
+			infrastructure = 4
+			air_base = 2
+			4205 = {
+				naval_base = 2
+				coastal_bunker = 1
+				bunker = 1
+
+			}
+
+		}
+
+	}
+	manpower=70006
+	buildings_max_level_factor=1.000
+	state_category=town
+}

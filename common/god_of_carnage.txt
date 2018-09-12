@@ -1,0 +1,245 @@
+bookmarks = {
+	bookmark = {
+		name = "CARNAGE_NAME"
+		desc = "CARNAGE_DESC"
+		date = 1940.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "RUS"
+		default = yes
+		
+		
+		"BLU"={
+			history = ""
+			ideology = communism
+			ideas = {
+			BLU_liberation_army
+			BLU_the_moscow_and_sp_uprisings_idea	
+			}
+			focuses = {
+				BLU_spread_the_revolution
+				BLU_world_revolution
+				BLU_steady_as_she_goes	
+			}
+		}
+		"RSP"={
+			history = ""
+			ideology = democratic
+			ideas = {
+			RSP_the_august_revolution
+			RSP_officer_shortage_idea
+			RSP_russian_civil_war_idea	
+			}
+			focuses = {
+			RSP_united_russia
+			RSP_demonise_tsar
+			RSP_outlook_of_russia	
+			}
+		}
+		
+		
+		"GRM"={
+			history = "GER_GATHERING_STORM_DESC"
+			ideology = auth_dem
+		}
+		"GOR"={
+			history = "ITA_GATHERING_STORM_DESC"
+			ideology = social_democracy
+			ideas = {
+				angered_populace
+				weak_military_admin
+			}	
+			focuses = {
+				GOR_tomorrow_belongs_to_me
+				GOR_establish_a_better_austria
+				GOR_internal_solutions
+			}		
+		}
+		"OTT"={
+			history = "ITA_GATHERING_STORM_DESC"
+			ideology = auth_dem
+			ideas = {
+				OTT_foreign_debt
+				OTT_joint_oil_company
+				OTT_arab_nationalism_idea
+			}	
+			focuses = {
+				
+			}		
+		}
+		"JAP"={
+			history = "JAP_GATHERING_STORM_DESC"
+			ideology = fascism
+			ideas = {
+				
+			}	
+			focuses = {
+				
+			}			
+		}
+		"RUS"={
+			history = "SOV_GATHERING_STORM_DESC"
+			ideology = neutrality
+			ideas = {
+				RUS_unpopular_tsar
+				RUS_bad_conscription
+				RUS_unruly_okhrana
+			}
+			focuses = {
+				RUS_the_tsar_defiant
+				RUS_strike_at_the_german_beast
+				RUS_tsar_elections
+			}	
+		}
+
+		"---"={
+			history = "OTHER_GATHERING_STORM_DESC"
+		}
+
+
+		# minors from DLC ####
+		"POL"={
+			minor = yes
+			history = "POL_GATHERING_STORM_DESC"
+			ideology = neutrality
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+		"CAN"={
+			minor = yes
+			history = "CAN_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				CAN_great_depression_1
+				CAN_conscription_crisis
+			}
+			focuses = {
+				CAN_skewer_the_eagle
+				CAN_north_american_alliance
+				CAN_join_comintern
+			}
+		}
+		"AST"={
+			minor = yes
+			history = "AST_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				AST_great_depression_1
+			}
+			focuses = {
+				AST_never_another_gallipoli
+				AST_support_indonesian_uprising
+				AST_delegation_to_china
+			}
+		}
+		"NZL"={
+			minor = yes
+			history = "NZL_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				
+			}
+			focuses = {
+				NZL_bob_semple_tank
+				NZL_independent_new_zealand
+				NZL_maori_volunteers
+			}
+		}
+		"SAF"={
+			minor = yes
+			history = "SAF_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				SAF_ossewabrandwag
+				SAF_history_of_segregation
+			}
+			focuses = {
+				SAF_secure_interests_in_africa
+				SAF_support_the_german_coup
+				SAF_anti_colonialist_crusade
+			}
+		}
+		"RAJ"={
+			minor = yes
+			history = "RAJ_GATHERING_STORM_DESC"
+			ideology = neutrality
+			ideas = {
+				RAJ_agrarian_society
+				RAJ_princely_states
+			}
+			focuses = {
+				RAJ_all_india_forward_bloc
+				RAJ_indian_gurkhas
+				RAJ_the_smiling_buddha
+			}
+		}
+		"CZE"={
+			minor = yes
+			history = "CZE_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				CZE_skoda_works
+				CZE_divided_nation
+			}
+			focuses = {
+				CZE_sudeten_1
+				CZE_industrial_legacy
+				CZE_military_research_institute
+			}
+		}
+
+		"HUN"={
+			minor = yes
+			history = "HUN_GATHERING_STORM_DESC"
+			ideology = neutrality
+			ideas = {
+				HUN_treaty_of_triannon
+			}
+			focuses = {
+				HUN_proclaim_the_restoration_of_austria_hungary
+				HUN_secret_rearmament
+				HUN_renounce_the_treaty_of_trianon
+			}
+		}
+
+		"ROM"={
+			minor = yes
+			history = "ROM_GATHERING_STORM_DESC"
+			ideology = neutrality
+			ideas = {
+				ROM_king_carol_ii_hedonist
+				neutrality_idea
+			}
+			focuses = {
+				ROM_balkans_dominance
+				ROM_institute_royal_dictatorship
+				ROM_preserve_greater_romania
+			}
+		}
+		
+		"YUG"={
+			minor = yes
+			history = "YUG_GATHERING_STORM_DESC"
+			ideology = neutrality
+			ideas = {
+				anti_german_military
+				YUG_idea_croatian_opposition
+				YUG_idea_serbian_general_staff
+			}
+			focuses = {
+				YUG_western_focus
+				YUG_abolish_the_monarchy
+				YUG_establish_the_banovina_of_croatia
+			}
+		}
+		
+
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

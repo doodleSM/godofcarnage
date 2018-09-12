@@ -1,0 +1,32 @@
+state={
+	id=765
+	name="STATE_765"
+	provinces={
+		1104 1184 1200 4157 4186 7089 7105 10018 
+	}
+	history={
+		owner = ANH
+		add_core_of = ANH
+		add_core_of = BEI
+		add_core_of = CHF
+		add_core_of = SHD
+		victory_points = {
+			1104 1
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 3
+			air_base = 3
+			1104 = {
+				naval_base = 2
+
+			}
+
+		}
+
+	}
+	manpower=12135242
+	buildings_max_level_factor=1.000
+	state_category=city
+}

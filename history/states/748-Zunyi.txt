@@ -1,0 +1,23 @@
+state={
+	id=748
+	name="STATE_748"
+	provinces={
+		1010 4141 4325 4431 9939 10763 11972 
+	}
+	history={
+		owner = CHF
+		add_core_of = BEI
+		add_core_of = CHF
+		add_core_of = SZE
+		buildings = {
+			infrastructure = 2
+
+		}
+		victory_points = {
+			10763 1 # zunyi
+		}
+	}
+	manpower=1500321
+	state_category=rural
+	buildings_max_level_factor=1.000
+}

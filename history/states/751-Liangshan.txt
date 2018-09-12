@@ -1,0 +1,26 @@
+state={
+	id=751
+	name="STATE_751"
+	provinces={
+		1999 2067 4999 7294 10726 10841 12141 12819 
+	}
+	resources={
+		oil=6.000
+	}
+	manpower=300000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	history={
+		owner = SZE
+		add_core_of = BEI
+		add_core_of = CHF
+		add_core_of = SZE
+		buildings = {
+			infrastructure = 2
+
+		}
+		victory_points = {
+			7294 1 #xichang
+		}
+	}
+}

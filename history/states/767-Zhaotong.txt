@@ -1,0 +1,26 @@
+state={
+	id=767
+	name="STATE_767"
+	provinces={
+		1319 5072 10819 12841 
+	}
+	history={
+		owner = CHF
+		add_core_of = BEI
+		add_core_of = CHF
+		add_core_of = YUN
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			1319 10 
+		}
+
+	}
+
+	manpower=720857
+	buildings_max_level_factor=1.000
+	state_category=town
+}

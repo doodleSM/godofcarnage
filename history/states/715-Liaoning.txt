@@ -1,0 +1,26 @@
+
+state={
+	id=715
+	name="STATE_715"
+
+	history={
+		owner = BEI
+		add_core_of = BEI
+		add_core_of = CHF
+		add_core_of = MAN
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		1499 1558 1627 1638 3877 4561 4633 6893 7812 11836 11903 12337 12469 
+	}
+	manpower=2443373
+	buildings_max_level_factor=1.000
+	state_category=town
+}

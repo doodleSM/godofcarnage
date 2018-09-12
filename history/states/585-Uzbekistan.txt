@@ -1,0 +1,30 @@
+
+state={
+	id=585
+	name="STATE_585"
+
+	history={
+		owner = BKH
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+
+		}
+		victory_points = {
+			10470 5 #bukhara
+		}
+		add_core_of = BKH
+		add_core_of = BLU
+		add_core_of = RSP
+		add_core_of = RUS
+
+	}
+
+	provinces={
+		1532 1623 4499 4618 10470 12161
+	}
+	manpower=574635
+	buildings_max_level_factor=1.000
+	state_category=town
+}

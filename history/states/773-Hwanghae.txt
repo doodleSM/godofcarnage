@@ -1,0 +1,24 @@
+state={
+	id=773
+	name="STATE_773"
+	provinces={
+		1003 4107 7070 7155 11915 12040 
+	}
+	history={
+		owner = KOR
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			1003 3 #haeju
+		}
+		add_core_of = KOR
+
+	}
+
+	manpower=1612658
+	buildings_max_level_factor=1.000
+	state_category=town
+}

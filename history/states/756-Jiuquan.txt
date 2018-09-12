@@ -1,0 +1,26 @@
+
+state={
+	id=756
+	name="STATE_756"
+
+	history={
+		owner = XSG
+		add_core_of = XSG
+		add_core_of = BEI
+		add_core_of = CHF
+		buildings = {
+			infrastructure = 2
+
+		}
+		victory_points = {
+			7971 1 #juiquan
+		}
+	}
+
+	provinces={
+		1778 2028 5076 7971 12596 12820 
+	}
+	manpower=456847
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

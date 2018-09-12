@@ -1,0 +1,29 @@
+
+state={
+	id=589
+	name="STATE_589"
+
+	history={
+		owner = ZHT
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			10146 1 #kapchagay
+		}
+		add_core_of = ZHT
+		add_core_of = BLU
+		add_core_of = RSP
+		add_core_of = RUS
+
+	}
+
+	provinces={
+		1840 4651 4773 4845 7711 7795 7856 10146 10547 13148
+	}
+	manpower=275191
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

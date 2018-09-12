@@ -1,0 +1,30 @@
+state={
+	id=768
+	name="STATE_768"
+	provinces={
+		1630 5057 5100 7511 12327 12732 12776 
+	}
+	resources={
+		aluminium=6
+	}
+	
+	history={
+		owner = XSG
+		add_core_of = XSG
+		add_core_of = BEI
+		add_core_of = CHF
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			5057 1 #wuwei
+		}
+
+	}
+
+	manpower=567365
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,27 @@
+
+state={
+	id=403
+	name="STATE_403"
+
+	history={
+		owner = RSP
+		buildings = {
+			infrastructure = 3
+
+		}
+		victory_points = {
+			4824 2 #tyumen
+		}
+		add_core_of = BLU
+		add_core_of = RSP
+		add_core_of = RUS
+
+	}
+
+	provinces={
+		1387 1880 4209 4710 4754 4824 7733 7846 10604 
+	}
+	manpower=839067
+	buildings_max_level_factor=1.000
+	state_category=town
+}

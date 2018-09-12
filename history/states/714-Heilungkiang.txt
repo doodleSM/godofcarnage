@@ -1,0 +1,27 @@
+
+state={
+	id=714
+	name="STATE_714"
+
+	history={
+		owner = BEI
+		add_core_of = BEI
+		add_core_of = CHF
+		add_core_of = MAN
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			7832 1 #heihe
+		}
+
+	}
+
+	provinces={
+		1693 1847 4809 7613 7767 7832 7848 7873 7897 10541 10675 12537 12548 12618 
+	}
+	manpower=3694191
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

@@ -1,0 +1,27 @@
+
+state={
+	id=616
+	name="STATE_616"
+
+	history={
+		owner = XSG
+		add_core_of = XSG
+		add_core_of = BEI
+		add_core_of = CHF
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		victory_points = {
+			10724 1 #yinchuan
+		}
+
+	}
+
+	provinces={
+		1985 3742 8081 8127 10724 
+	}
+	manpower=2077600
+	buildings_max_level_factor=1.000
+	state_category=town
+}

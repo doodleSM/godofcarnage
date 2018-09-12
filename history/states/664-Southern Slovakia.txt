@@ -1,0 +1,31 @@
+
+state={
+	id=664
+	name="STATE_664"
+	resources={
+		steel=13.000
+		chromium=3.000
+	}
+
+	history={
+		owner = HUN
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+
+		}
+		victory_points = {
+			6573 1 #kosice
+		}
+		add_core_of = HUN
+		add_core_of = SLO
+
+	}
+
+	provinces={
+		3565 6561 6573 9537 
+	}
+	manpower=754300
+	buildings_max_level_factor=1.000
+	state_category=town
+}
